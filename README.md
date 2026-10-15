@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요, 클라우드와 백엔드 개발에 관심 있는 개발자입니다 👋
+# 안녕하세요 👋
 
 **Backend · Cloud Infrastructure · DevOps**
 
