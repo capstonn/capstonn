@@ -4,9 +4,7 @@
 
 **Backend · Cloud Infrastructure · DevOps**
 
-정보통신공학 전공 | **공기업 클라우드부서 재직 중**
-
-사용자에게 필요한 서비스를 개발하고, 안정적인 클라우드 환경과 개발 자동화를 고민합니다.
+정보통신공학 전공 | 
 
 </div>
 
@@ -15,10 +13,8 @@
 ## 🙋 소개
 
 - 🎓 **정보통신공학 전공**
-- 💼 **공기업 클라우드부서 재직 중** (2026.06 ~ 현재)
+- 💼 **공기업 재직 중** (2026.06 ~ 현재)
 - 💻 Java·Spring 기반 백엔드 및 풀스택 개발 경험
-- ☁️ 클라우드 플랫폼, CI/CD, 인프라 자동화에 관심
-- 📚 Kubernetes, OpenStack, DevOps 관련 기술 학습 중
 
 ## 🛠 기술 스택
 
@@ -31,8 +27,6 @@
 **클라우드 · DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**학습 및 관심 기술**  
-`Kubernetes` · `OpenStack` · `IaC` · `MSA` · `DevSecOps`
 
 ## 💼 경력 및 교육
 
@@ -64,15 +58,15 @@
 
 ### 🏠 전세사기 위험 분석 서비스
 전세 계약 시 위험 요소를 파악할 수 있도록 지원하는 서비스 개발 프로젝트  
-`Java` `Spring Boot` `JPA` `MySQL`
+`Java` `Spring Legacy` `Vue` `MySQL`
 
 ### 📱 소상공인 지원 및 SNS 자동화 서비스
 소상공인을 위한 서비스 기능과 SNS 관련 업무 자동화를 결합한 풀스택 프로젝트  
-`Backend` `Frontend` `API 연동`
+`Java` `Spring Boot` `Vue` `MySQL`
 
 ### 🤖 자율주행 로봇 캡스톤디자인
 자율주행 및 객체 인식 기술을 활용한 로봇 프로젝트  
-`AI` `Computer Vision` `Robotics`
+`Yolov5` `Computer Vision` `Robotics`
 
 > 공개 가능한 프로젝트 저장소와 담당 역할을 정리해 링크를 추가할 예정입니다. 회사 내부 시스템의 비공개 정보는 포함하지 않습니다.
 
