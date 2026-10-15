@@ -1,3 +1,4 @@
+<!-- 
 <div align="center">
 
 # 안녕하세요 👋
@@ -82,3 +83,4 @@
 <div align="center">
   <sub>꾸준히 배우고, 직접 만들고, 더 나은 방법을 고민합니다.</sub>
 </div>
+-->
